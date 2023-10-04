@@ -5,7 +5,12 @@
 terraform init
 ```
 
-### apply
+### Apply
 ```bash
 terraform apply
+```
+
+### Destroy
+```bash
+terraform destroy
 ```
