@@ -6,6 +6,11 @@ This is a repository for building the minimal infrastructure to access Aurora us
 terraform init
 ```
 
+### Plan
+```bash
+terraform plan
+```
+
 ### Apply
 ```bash
 terraform apply
